@@ -3,7 +3,7 @@ import calendar
 from datetime import datetime
 from telebot import types
 
-bot = telebot.TeleBot('7218814704:AAFhlRmmf5aQkesc29VA2F3cYNlor68khyc')
+bot = telebot.TeleBot('TOKEN')
 
 the_list = {}
 flag = 0
